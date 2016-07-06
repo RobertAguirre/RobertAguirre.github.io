@@ -17,3 +17,5 @@ Second solution. The most renowned, do not procrastinate. Bad habits are easy to
 facing. 
 
 In conclusion, don’t stress there is more time then you realize! Time is a friend. 
+
+![hello]({{ site.url }}/img/blocitoff.png)
