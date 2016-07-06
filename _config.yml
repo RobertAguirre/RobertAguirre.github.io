@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-Robert" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://RobertAguirre.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: <h1>Robert Aguirre</h1>
+  title: Robert Aguirre
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
