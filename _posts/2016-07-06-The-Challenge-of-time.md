@@ -19,3 +19,7 @@ facing.
 In conclusion, don’t stress there is more time then you realize! Time is a friend. 
 
 ![hello]({{ site.url }}/img/blocitoff.png)
+
+![hello](http://images.clipartpanda.com/clock-clip-art-dcrakazc9.png)
+
+
